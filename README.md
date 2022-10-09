@@ -10,7 +10,7 @@
 *[project](#project)
 *[instruction](#instruction)
 *[environment](#environment)
-#[language](#language)
+*[language](#language)
 *[others](#others)
 <a name="background"></a>
 
