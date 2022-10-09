@@ -378,6 +378,10 @@ header {
     font-weight: 700;
 }
 
+.doc a:hover {
+    color: rgb(13, 51, 239);
+}
+
 .top {
     color:rgb(182,149,53);
     position: relative;
