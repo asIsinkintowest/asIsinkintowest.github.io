@@ -10,6 +10,7 @@
 *[project](#project)
 *[instruction](#instruction)
 *[environment](#environment)
+#[language](#language)
 *[others](#others)
 <a name="background"></a>
 
@@ -35,7 +36,11 @@
   <a name="others"></a>
 
 ## environment
-git pages
+github-pages
+
+## language
+Html
+Css
 
 ## others
 
